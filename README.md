@@ -1,63 +1,80 @@
 # 👋 Hi, I’m Ryno Goetz
 
 🎓 3rd Year Software Engineering Student at Belgium Campus iTversity
-
-💻 Passionate about Software Development, Data, and Real-World Problem Solving
-
 📍 Pretoria, South Africa
+💻 Passionate about building practical systems and solving real-world problems
 
-🚀 Currently working on academic and personal development projects  
+💼 Open to internship and graduate opportunities in software engineering
 
-💼 Open to internships / graduate opportunities in Software Development
+---
 
 ## 🧠 About Me
 
-I am a motivated sofware engineering student with a strong interest in building practical systems and learning new things. 
+I am a motivated software engineering student with a strong interest in building real-world systems and continuously improving my technical skills.
 
 Currently, I am working on:
-- My 3rd year international project in collaberation with UCLL in Belgium. A water hyacinth monitoring and analysis project investigating environmental impact and potential solutions in South Africa
 
-I enjoy learning by building and continuously improving my technical skills.
+* A water hyacinth monitoring and analysis project addressing environmental challenges in South Africa
+
+I enjoy learning by building and applying technology to solve real-world problems.
+
+---
 
 ## 🚀 Skills
 
 ### 💻 Programming
-- Python (Basic)
-- Java (Learning)
-- C#
-- SQL
-- JavaScript
-- HTML
-- CSS
+
+* C#
+* SQL (T-SQL)
+* JavaScript
+* HTML
+* CSS
 
 ### 🛠 Tools & Technologies
-- Git & GitHub
-- SQL Server Management Studio (SSMS)
-- Supabase (Basic)
-- Vercel (Basic)
+
+* Git & GitHub
+* SQL Server Management Studio (SSMS)
+* Supabase (Basic)
+* Vercel (Basic)
 
 ### ☁️ Concepts & Areas
-- Database Design & Normalization
-- Time Series Analysis
-- Web Development (Frontend & Backend Basics)
-- AI Integration (Basic)
+
+* Database Design & Normalization
+* Time Series Analysis
+* Web Development (Frontend & Backend)
+* API Integration (Basic)
+* AI Integration (Basic)
+
+---
 
 ## 📂 Featured Projects
 
-### 📊 Database System – The Sozo Foundation
-- Designed and implemented a full database system
-- Created ERD, normalization (up to 3NF), and T-SQL scripts
-- Included stored procedures, triggers, and authentication
+### 🌱 Green Blanket Project (3rd Year Project)
 
-### 📈 Time Series Analysis – Server Performance
-- Analysed server metrics over time
-- Applied forecasting techniques
-- Built as part of an IT-focused data analysis project
+* Full-stack project focused on real-world problem solving
+* Includes backend and frontend components
 
-### 🌐 Fitness Tracking Web App
-- Tracks goals and achievements
-- Includes dynamic goal detection logic
-- Built with frontend + backend integration
+### 📊 Sozo Foundation Database System
+
+* Designed and implemented a relational database using SQL Server
+* Includes normalization, stored procedures, triggers, and views
+
+### 🏋️ Fitness Tracker Web App
+
+* Built a frontend application using JavaScript and local storage
+* Includes workout tracking, goals, achievements, and data visualization
+
+### 🔐 File Monitoring & Alert System
+
+* Console-based system with logging, authentication, and file monitoring
+* Demonstrates OOP and system design
+
+### 🦸 Superhero Management System
+
+* Windows Forms application with GUI, CRUD operations, and reporting
+* Uses file-based data storage and object-oriented design
+
+---
 
   ## 📄 CV
 
