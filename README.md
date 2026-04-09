@@ -61,7 +61,7 @@ I enjoy learning by building and continuously improving my technical skills.
 
   ## 📄 CV
 
-📥 [Download My CV](link-here)
+📥 [Download My CV](https://github.com/RynoGZ/Ryno-Goetz/blob/main/Ryno_CV_2026.pdf)
 
 ## 📫 Contact Me
 
