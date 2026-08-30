@@ -78,7 +78,7 @@ I enjoy learning by building and applying technology to solve real-world problem
 
   ## 📄 CV
 
-📥 [Download My CV](https://github.com/RynoGZ/Ryno-Goetz/blob/main/Ryno_Goetz_CV_2026.pdf)
+📥 [Download My CV](https://github.com/RynoGZ/Ryno-Goetz/blob/main/RM_Goetz_CV.pdf)
 
 ## 📫 Contact Me
 
